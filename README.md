@@ -102,8 +102,8 @@ class MridhulKrishna:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mridhul2k03&show_icons=true&theme=custom&bg_color=0a0f0d&title_color=4ade80&icon_color=4ade80&text_color=cbd5e1&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridhul2k03&layout=compact&theme=custom&bg_color=0a0f0d&title_color=4ade80&icon_color=4ade80&text_color=cbd5e1&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=Mridhul2k03&show_icons=true&bg_color=0a0f0d&title_color=4ade80&icon_color=4ade80&text_color=cbd5e1&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mridhul2k03&layout=compact&bg_color=0a0f0d&title_color=4ade80&icon_color=4ade80&text_color=cbd5e1&hide_border=true&langs_count=6" />
 
 </div>
 
