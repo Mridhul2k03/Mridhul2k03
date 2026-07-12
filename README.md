@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092e20,50:124c38,100:10b981&height=200&section=header&text=Mridhul%20Krishna%20T%20K&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Django%20Backend%20Developer&descAlignY=58&descSize=18&descColor=4ade80" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Mridhul Krishna Profile Banner" src="dark.svg" width="100%">
+</picture>
 
 </div>
 
