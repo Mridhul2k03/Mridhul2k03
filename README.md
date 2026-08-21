@@ -117,7 +117,7 @@ _May 2024 – Present_
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mridhul2k03&theme=dark&background=0a0f0d&ring=4ade80&fire=10b981&currStreakNum=ffffff&sideNums=cbd5e1&sideLabels=94a3b8&dates=cbd5e1&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mridhul2k03&theme=dark&background=0a0f0d&ring=4ade80&fire=10b981&currStreakNum=ffffff&sideNums=cbd5e1&sideLabels=94a3b8&dates=cbd5e1&hide_border=true&cache_bust=1)
 
 </div>
 
